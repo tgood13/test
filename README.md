@@ -2,8 +2,9 @@
 
 ## Unity Hub Setup:
 
-* Download Unity Hub
-* Run UnityHubSetup.exe
+* Setup Unity Hub
+  * Download Unity Hub
+  * Run UnityHubSetup.exe
 * After setup is complete, you should see this:
 ![Unity Hub Menu](https://i.paste.pics/ccbbc031abd27468abbe2cdd6ac2976a.png)
 * Setup License
