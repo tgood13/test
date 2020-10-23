@@ -1,6 +1,6 @@
 # test
 
-## Unity Hub Setup
+## Unity Hub Setup:
 
 ### - Download Unity Hub
 ### - Run UnityHubSetup.exe
