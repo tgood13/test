@@ -13,7 +13,7 @@
 * Select “Unity Personal”
 * Navigate to “Installs” within Unity Hub
 * Click “Add”
-![Unity version](https://i.paste.pics/3dae65011f5d41270e5a4c42e84e0e9f.png)
+![Unity version](https://i.paste.pics/6314b948fee74e1c06bf6d94e78b0057.png)
 
 
 ## Download Python 3.7
