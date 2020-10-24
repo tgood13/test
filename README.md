@@ -16,8 +16,7 @@
   * Select “Unity Personal” + "I don't use Unity in a professional capacity."
 * Installing Unity
   * Navigate to “Installs” within Unity Hub
-  * Click “Add” and select the first version of Unity shown under "Official Releases"
-  * Make sure "Visual Studio for Mac" is checked under "Dev tools", and proceed with the download (might take a while)
+  * Click “Add” and select the first version of Unity shown under "Official Releases" (download might take a while)
 
 ## Download Python 3.7.9
 * Go to: https://www.python.org/downloads/
