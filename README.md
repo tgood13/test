@@ -1,6 +1,6 @@
 # test
 
-## Unity Hub Setup:
+## Unity Setup:
 
 * Unity Hub
   * Download Unity Hub
