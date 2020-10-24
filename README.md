@@ -15,7 +15,7 @@
   * Select “Unity Personal”
 * Installing Unity
   * Navigate to “Installs” within Unity Hub
-  * Click “Add” and select version of Unity shown under "Official Releases"
+  * Click “Add” and select the first version of Unity shown under "Official Releases"
 
 
 ## Download Python 3.7
