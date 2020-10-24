@@ -16,7 +16,7 @@
 * Installing Unity
   * Navigate to “Installs” within Unity Hub
   * Click “Add” and select version of Unity shown in the image below
-![Unity version](https://i.paste.pics/6314b948fee74e1c06bf6d94e78b0057.png)
+![Unity version](https://i.paste.pics/61a5d373f8a6f15b357045f3e7478c6c.png)
 
 
 ## Download Python 3.7
