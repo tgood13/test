@@ -18,7 +18,7 @@
   * Navigate to “Installs” within Unity Hub
   * Click “Add” and select the first version of Unity shown under "Official Releases" (download might take a while)
 
-## Download Python 3.7.9
+## Python 3.7.9 Setup
 Windows
 * Go to: https://www.python.org/downloads/windows/
 * Scroll down until you see Python 3.7.9. It will look like this:
