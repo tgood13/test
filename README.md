@@ -17,5 +17,6 @@
   * Navigate to “Installs” within Unity Hub
   * Click “Add” and select the first version of Unity shown under "Official Releases"
 
-
 ## Download Python 3.7
+https://www.python.org/downloads/windows/
+![Unity Hub Menu](https://i.paste.pics/18fb3b415cd7deb1d89082320dacaa13.png)
