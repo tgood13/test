@@ -5,7 +5,8 @@
 * Unity Hub
   * Download Unity Hub
   * Run UnityHubSetup.exe
-* After setup is complete and Unity Hub is open, you should see this at the bottom of the window:
+* License
+  * After setup is complete and Unity Hub is open, you should see this at the bottom of the window:
   ![Unity Hub Menu](https://i.paste.pics/fcbee8923b6678a27448515de12622be.png)
   * Click “Manage License”
   * Click “Login”
