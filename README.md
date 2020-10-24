@@ -16,6 +16,7 @@
 * Installing Unity
   * Navigate to “Installs” within Unity Hub
   * Click “Add” and select version of Unity shown in the image below
+  
 ![Unity version](https://i.paste.pics/61a5d373f8a6f15b357045f3e7478c6c.png)
 
 
