@@ -20,14 +20,17 @@
   * Click “Add” and select the first version of Unity shown under "Official Releases" (download might take a while)
 
 ## Step 2: Create Folder Named "workshop3"
-* Create a folder named "workshop3" somewhere. This will be used to keep the workshop files organized.
+* Create a folder named "workshop3" somewhere. This will be used to keep the workshop files organized
 
 ## Step 3: Download GitHub Repo
 
-* Press the green "Code" button and click "Download ZIP".
-* Save the folder to your computer inside the "workshop3" folder and extract the contents.
+* Press the green "Code" button and click "Download ZIP"
+* Save the folder to your computer inside the "workshop3" folder and extract the contents
 
 ## Step 4: Download Python 3.7.9
+
+* Create a folder named "Python" inside the "workshop3" folder and store your Python download in it
+
 ### Windows
 * Go to: https://www.python.org/downloads/windows/
 * Scroll down until you see Python 3.7.9
