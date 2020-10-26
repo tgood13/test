@@ -1,7 +1,7 @@
 # test
 
 
-## Unity Setup:
+## Step 1: Unity Setup:
 
 * Unity Hub
   * Go to: https://unity3d.com/get-unity/download
@@ -20,7 +20,7 @@
   * Click “Add” and select the first version of Unity shown under "Official Releases" (download might take a while)
 
 
-## Download Python 3.7.9
+## Step 2: Download Python 3.7.9
 ### Windows
 * Go to: https://www.python.org/downloads/windows/
 * Scroll down until you see Python 3.7.9
@@ -32,7 +32,7 @@
 * Click on "macOS 64-bit installer"
  
  
-## Creating the Virtual Environment
+## Step 3: Creating the Virtual Environment
 
 Change directories to "workshop3" folder
 ```
