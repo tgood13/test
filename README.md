@@ -88,5 +88,5 @@ pip3 install mlagents
 
 ## Step 6: Open Project Files and Begin Watching YouTube Video
 * Open Unity Hub and navigate to the "Projects" section
-* Press "Add" and select the folder containing the project files (should be the "BlockRunnerAI" folder inside the "workshop3" folder
+* Press "Add" and select the folder containing the project files (should be the "BlockRunnerAI" folder inside the "workshop3" folder)
 * You are ready to begin watching the video!
