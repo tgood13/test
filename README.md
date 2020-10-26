@@ -23,14 +23,12 @@
 ## Download Python 3.7.9
 ### Windows
 * Go to: https://www.python.org/downloads/windows/
-* Scroll down until you see Python 3.7.9. It will look like this:
-* ![Python Windows](https://i.paste.pics/18fb3b415cd7deb1d89082320dacaa13.png)
+* Scroll down until you see Python 3.7.9
 * Click on "Windows x86-64 executable installer"
  
 ### Mac OSX / Linux
 * Go to: https://www.python.org/downloads/mac-osx/
-* Scroll down until you see Python 3.7.9. It will look like this:
-* ![Python Mac](https://i.paste.pics/586425d2301940625ee9954529b968b9.png)
+* Scroll down until you see Python 3.7.9
 * Click on "macOS 64-bit installer"
  
  
