@@ -44,21 +44,21 @@
  
 ## Step 5: Create the Virtual Environment
 
-Open a Terminal (OSX/LINUX) or CMD (WINDOWS) and follow the below instructions
+* Open a Terminal (OSX/LINUX) or CMD (WINDOWS) and follow the below instructions
 
-Change directories to "workshop3" folder
+* Change directories to "workshop3" folder
 ```
 cd /path/to/workshop3/
 ```
 
 ### Mac OSX / Linux
 
-Install virtual environment tool:
+* Install virtual environment tool:
 ```
 pip3 install virtualenv
 ```
 
-Create and activate virtual environment:
+* Create and activate virtual environment:
 ```
 python3 -m venv blockrunnerenv
 
@@ -67,12 +67,12 @@ source blockrunnerenv/bin/activate
 
 ### Windows
 
-Install virtual environment tool:
+* Install virtual environment tool:
 ```
 pip3 install --user virtualenv
 ```
 
-Create and activate virtual environment:
+* Create and activate virtual environment:
 ```
 py -m venv blockrunnerenv
 
