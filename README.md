@@ -59,15 +59,12 @@ cd /path/to/workshop3/
 pip3 install virtualenv
 ```
 
-* Create and activate virtual environment:
+* Create and activate virtual environment + Install mlagents Python package:
 ```
 python3.6 -m venv blockrunnerenv
 
 source blockrunnerenv/bin/activate
-```
 
-* Install mlagents Python package
-```
 pip3 install mlagents
 ```
 
@@ -78,14 +75,11 @@ pip3 install mlagents
 pip3 install --user virtualenv
 ```
 
-* Create and activate virtual environment:
+* Create and activate virtual environment + Install mlagents Python package:
 ```
 virtualenv --python=D:\workshop3\Python\python.exe blockrunnerenv
 
 blockrunnerenv\Scripts\activate.bat
-```
 
-* Install mlagents Python package
-```
 pip3 install mlagents
 ```
