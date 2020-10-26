@@ -1,4 +1,4 @@
-# test
+# BlockRunnerAI Workshop
 
 ## Steps + Folder Structure Visualization
 ![Steps Visualization](https://i.paste.pics/e68880182cc8971e44e3c4231a78f65c.png)
@@ -86,4 +86,7 @@ blockrunnerenv\Scripts\activate.bat
 pip3 install mlagents
 ```
 
-## Step 6: Follow Along with Youtube Video
+## Step 6: Open Project Files and Begin Watching YouTube Video
+* Open Unity Hub and navigate to the "Projects" section
+* Press "Add" and select the folder containing the project files (should be the "BlockRunnerAI" folder inside the "workshop3" folder
+* You are ready to begin watching the video!
