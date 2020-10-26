@@ -39,7 +39,7 @@
 * Click on "macOS 64-bit installer"
  
  
-## Step 3: Creating the Virtual Environment
+## Step 5: Creating the Virtual Environment
 
 Open a Terminal (OSX/LINUX) or CMD (WINDOWS) and follow the below instructions
 
