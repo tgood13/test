@@ -1,5 +1,6 @@
 # test
 
+## Steps + Folder Structure Visualization
 ![Steps Visualization](https://i.paste.pics/e68880182cc8971e44e3c4231a78f65c.png)
 
 ## Step 1: Unity Setup
