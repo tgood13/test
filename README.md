@@ -22,7 +22,7 @@
 ## Step 2: workshop3 Folder
 * Create a folder named "workshop3" somewhere. This will be used to keep the workshop files organized.
 
-## Step 3: Download Project Files
+## Step 3: Download GitHub Repo
 
 * Press the green "Code" button and click "Download ZIP".
 * Save the folder to your computer inside the "workshop3" folder and extract the contents.
