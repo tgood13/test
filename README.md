@@ -1,7 +1,7 @@
 # test
 
 
-## Step 1: Unity Setup:
+## Step 1: Unity Setup
 
 * Unity Hub
   * Go to: https://unity3d.com/get-unity/download
@@ -19,6 +19,8 @@
   * Navigate to “Installs” within Unity Hub
   * Click “Add” and select the first version of Unity shown under "Official Releases" (download might take a while)
 
+## Step 2: workshop3 Folder
+* Create a folder named "workshop3" somewhere. This will be used to keep the workshop files organized.
 
 ## Step 2: Download Python 3.7.9
 ### Windows
