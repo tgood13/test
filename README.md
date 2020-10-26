@@ -27,7 +27,7 @@
 * ![Python Windows](https://i.paste.pics/18fb3b415cd7deb1d89082320dacaa13.png)
 * Click on "Windows x86-64 executable installer"
  
-### Mac
+### Mac OSX / Linux
 * Go to: https://www.python.org/downloads/mac-osx/
 * Scroll down until you see Python 3.7.9. It will look like this:
 * ![Python Mac](https://i.paste.pics/586425d2301940625ee9954529b968b9.png)
