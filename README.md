@@ -41,10 +41,7 @@
 * Click on "Windows x86-64 executable installer"
  
 ### Mac OSX / Linux
-CONTINUE TO STEP 5
-* Go to: https://www.python.org/downloads/mac-osx/
-* Scroll down until you see Python 3.7.9
-* Click on "macOS 64-bit installer"
+* This step is unnecessary for Mac users. Proceed to Step 5.
  
  
 ## Step 5: Create the Virtual Environment
@@ -65,7 +62,7 @@ pip3 install virtualenv
 
 * Create and activate virtual environment + Install mlagents Python package:
 ```
-python3.6 -m venv blockrunnerenv
+python3.7 -m venv blockrunnerenv
 
 source blockrunnerenv/bin/activate
 
