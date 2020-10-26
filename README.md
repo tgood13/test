@@ -22,7 +22,12 @@
 ## Step 2: workshop3 Folder
 * Create a folder named "workshop3" somewhere. This will be used to keep the workshop files organized.
 
-## Step 2: Download Python 3.7.9
+## Step 3: Download Project Files
+
+* Press the green "Code" button and click "Download ZIP".
+* Save the folder to your computer inside the "workshop3" folder and extract the contents.
+
+## Step 4: Download Python 3.7.9
 ### Windows
 * Go to: https://www.python.org/downloads/windows/
 * Scroll down until you see Python 3.7.9
@@ -35,6 +40,8 @@
  
  
 ## Step 3: Creating the Virtual Environment
+
+Open a Terminal (OSX/LINUX) or CMD (WINDOWS) and follow the below instructions
 
 Change directories to "workshop3" folder
 ```
