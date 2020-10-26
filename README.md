@@ -63,6 +63,7 @@ pip3 install virtualenv
 ```
 python3.6 -m venv blockrunnerenv
 
+
 source blockrunnerenv/bin/activate
 ```
 
@@ -81,6 +82,7 @@ pip3 install --user virtualenv
 * Create and activate virtual environment:
 ```
 virtualenv --python=D:\workshop3\Python\python.exe blockrunnerenv
+
 
 blockrunnerenv\Scripts\activate.bat
 ```
