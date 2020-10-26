@@ -26,8 +26,11 @@
 
 ## Step 3: Download GitHub Repo
 
-* Press the green "Code" button and click "Download ZIP"
-* Save the folder to your computer inside the "workshop3" folder and extract the contents
+* Press the green "Code" button and click "Download ZIP" on this GitHub Repo
+* Create a folder named "BlockRunnerAI" inside your "workshop3" folder
+* Extract the contents of the ZIP file and drag all the files into the "BlockRunnerAI" folder
+* It should look like this when you're done:
+![Project Folder](https://i.paste.pics/a19219f165452159c2f2b036ef44ac79.png)
 
 ## Step 4: Download Python 3.7.9
 
