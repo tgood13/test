@@ -19,7 +19,7 @@
   * Navigate to “Installs” within Unity Hub
   * Click “Add” and select the first version of Unity shown under "Official Releases" (download might take a while)
 
-## Step 2: workshop3 Folder
+## Step 2: Create Folder Named "workshop3"
 * Create a folder named "workshop3" somewhere. This will be used to keep the workshop files organized.
 
 ## Step 3: Download GitHub Repo
@@ -39,7 +39,7 @@
 * Click on "macOS 64-bit installer"
  
  
-## Step 5: Creating the Virtual Environment
+## Step 5: Create the Virtual Environment
 
 Open a Terminal (OSX/LINUX) or CMD (WINDOWS) and follow the below instructions
 
