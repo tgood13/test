@@ -1,5 +1,6 @@
 # test
 
+![Steps Visualization](https://i.paste.pics/e68880182cc8971e44e3c4231a78f65c.png)
 
 ## Step 1: Unity Setup
 
@@ -83,3 +84,5 @@ blockrunnerenv\Scripts\activate.bat
 
 pip3 install mlagents
 ```
+
+## Step 6: Follow Along with Youtube Video
