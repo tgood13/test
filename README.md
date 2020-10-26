@@ -37,6 +37,7 @@
 * Click on "Windows x86-64 executable installer"
  
 ### Mac OSX / Linux
+CONTINUE TO STEP 5
 * Go to: https://www.python.org/downloads/mac-osx/
 * Scroll down until you see Python 3.7.9
 * Click on "macOS 64-bit installer"
@@ -58,11 +59,9 @@ cd /path/to/workshop3/
 pip3 install virtualenv
 ```
 
-* Create and activate virtual environment:
+* Create virtual environment:
 ```
-python3 -m venv blockrunnerenv
-
-source blockrunnerenv/bin/activate
+python3.6 -m venv blockrunnerenv
 ```
 
 ### Windows
@@ -72,9 +71,7 @@ source blockrunnerenv/bin/activate
 pip3 install --user virtualenv
 ```
 
-* Create and activate virtual environment:
+* Create virtual environment:
 ```
-py -m venv blockrunnerenv
-
-blockrunnerenv\Scripts\activate.bat
+virtualenv --python=D:\workshop3\Python\python.exe blockrunnerenv
 ```
